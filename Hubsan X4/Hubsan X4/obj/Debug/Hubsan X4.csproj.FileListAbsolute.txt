@@ -1,0 +1,8 @@
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\bin\Debug\Hubsan X4.exe.config
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\bin\Debug\Hubsan X4.exe
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\bin\Debug\Hubsan X4.pdb
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\obj\Debug\Hubsan_X4.Form1.resources
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\obj\Debug\Hubsan_X4.Properties.Resources.resources
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\obj\Debug\Hubsan X4.csproj.GenerateResource.Cache
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\obj\Debug\Hubsan X4.exe
+c:\users\3nr\documents\visual studio 2013\Projects\Hubsan X4\Hubsan X4\obj\Debug\Hubsan X4.pdb
